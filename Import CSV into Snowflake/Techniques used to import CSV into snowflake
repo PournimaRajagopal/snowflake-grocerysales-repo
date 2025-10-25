@@ -1,1 +1,5 @@
+Methods to Import CSV into Snowflake:
+-------------------------------------
 
+1) Import CSV into snowflake using snowflake UI
+2) Import CSV into snowflake using snowSQL
