@@ -44,7 +44,6 @@ This project focuses on:
 
 - **Snowflake** – for data storage, SQL-based analysis, and visualization (Snowsight).
 - **SQL** – for querying and analyzing data.
-- **Tableau / Power BI** *(optional)* – for advanced visualization dashboards.
 
 
 ## 🚀 Steps Involved
