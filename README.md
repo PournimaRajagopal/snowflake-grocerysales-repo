@@ -46,13 +46,6 @@ This project focuses on:
 - **SQL** – for querying and analyzing data.
 - **Tableau / Power BI** *(optional)* – for advanced visualization dashboards.
 
----
-
-## 🖼️ Dashboard Preview (From Snowflake)
-
-![image](https://github.com/user-attachments/assets/e9d53142-59c0-4872-8d9e-756d30bb0bac)
-
----
 
 ## 🚀 Steps Involved
 
