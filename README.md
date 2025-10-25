@@ -48,11 +48,11 @@ This project focuses on:
 
 ## 🚀 Steps Involved
 
-1. Loaded raw CSV data files into **Snowflake** using the `PUT` and `COPY INTO` commands.  
-2. Created and optimized tables (`customers`, `products`, `sales`, etc.).  
+1. Loaded raw CSV data files into **Snowflake** using the `Snowflake UI` and `SnowSQL` commands.  
+2. Created  tables (`customers`, `products`, `sales`, etc.).  
 3. Performed data cleaning and transformation using SQL queries.  
 4. Developed analytical queries for sales performance, customer segmentation, and store analysis.  
-5. Built visual dashboards in **Snowflake Snowsight** and **Tableau** for insights presentation.
+5. Built visual dashboards in **Snowflake Snowsight**  for insights presentation.
 
 ---
 
