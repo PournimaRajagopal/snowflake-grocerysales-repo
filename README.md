@@ -24,8 +24,10 @@ This project focuses on:
   - `customers.csv`
   - `products.csv`
   - `sales.csv`
-  - `stores.csv`
+  - `emploees.csv`
   - `categories.csv`
+  - `cities.csv`
+  - `countries.csv`
 
 ---
 
